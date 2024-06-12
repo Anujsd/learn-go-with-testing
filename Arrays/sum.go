@@ -7,6 +7,7 @@ func GetSum(nums []int) int {
 	}
 	return sum
 }
+<<<<<<< HEAD
 
 func SumAll(numbers ...[]int) []int {
 
@@ -33,3 +34,5 @@ func SumAllTails(numbers ...[]int) []int {
 
 	return sums
 }
+=======
+>>>>>>> 6754e7d5d0a2e63898ffe1980aec6deb3f2ad773
